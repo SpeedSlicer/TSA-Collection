@@ -1,7 +1,7 @@
 # Previous Projects
 
 
-Projects in the repo: [here](https://github.com/SpeedSlicer/TSA-THING/tree/598c5cea5df9b283029f8d408848c507629a7683/previous-projects) 
+Projects in the repo: [here](https://github.com/SpeedSlicer/TSA-THING/tree/main/previous-projects) 
 
 TSCE: [drive](https://drive.google.com/drive/folders/19GPy6Ufzs5P8kStTBjVB8oa8QayPjv4Y)
 
